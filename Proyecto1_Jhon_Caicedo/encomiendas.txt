@@ -1,0 +1,7 @@
+numeroServicio,nombreCliente,nombreConductor,desde,hasta,fecha,hora,tipoEncomienda,cantidadProductos,tipoPago,valorPagar
+550816,Luis,Pedro,Alborada,Guayacanes,22//06/2121,10:30,DOCUMENTOS,4,Pago en efectivo,0.4446010726572509
+numeroServicio,nombreCliente,nombreConductor,desde,hasta,fecha,hora,tipoEncomienda,cantidadProductos,tipoPago,valorPagar
+368201,Luis,Pedro,alborada,alborada,22/05/03,22:13,MEDICAMENTOS,2,Pago en efectivo,0.5071747525756548
+numeroServicio,nombreCliente,nombreConductor,desde,hasta,fecha,hora,tipoEncomienda,cantidadProductos,tipoPago,valorPagar
+463439,Luis,Pedro,Espol,Socio Vivienda,30/11/2023,17:00,MEDICAMENTOS,2,Pago en efectivo,0.8756544134690225
+numeroServicio,nombreCliente,nombreConductor,desde,hasta,fecha,hora,tipoEncomienda,cantidadProductos,tipoPago,valorPagar

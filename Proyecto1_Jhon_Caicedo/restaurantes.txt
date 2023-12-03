@@ -1,0 +1,5 @@
+codigoRestaurante,nombreRestaurante
+678,Mc Donals
+875,Naturissimo
+736,Sweet and Coffee
+822,Cafe de Tere

@@ -1,0 +1,5 @@
+numeroPedido,codigoRestaurante,nombrePlato,precio
+335060,5657,Pedro,sdssddss
+numeroPedido,codigoRestaurante,nombrePlato,precio
+222552,5657,Pedro,sdssddss
+numeroPedido,codigoRestaurante,nombrePlato,precio

@@ -1,0 +1,4 @@
+nombre,codigoUsuario,licencia,estado,codigoVehiculo
+Alex,2739,238983,D,23
+Juan,3847,293487,D,12
+Pedro,3474,828737,D,15

@@ -1,0 +1,4 @@
+codigoVehiculo,placa,modelo,marca,tipo
+23,GSX3847,CX3,Mazda,A
+12,GSD8475,Aveo,Cherolet,A
+15,GAF9833,I10,Hyundai,M
